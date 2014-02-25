@@ -1,0 +1,14 @@
+{
+    "project_name": "My Project",
+    "package_name":"my_project",
+    "repo_name":"my-project",
+    "repo_url":"Repository URL",
+    "version": "0.0.1",
+    "description": "A short description of the project.",
+
+    "author_name": "Author Name",
+    "author_email": "Author Email",
+    "author_url": "Author URL",
+
+    "year": "2014"
+}
