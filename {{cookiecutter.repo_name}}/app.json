@@ -2,7 +2,7 @@
 	"name": "{{cookiecutter.project_name}}",
 	"description": "{{cookiecutter.description}}",
 	"version": "{{cookiecutter.app_version}}",
-	"url": "{{cookiecutter.url}}",
+	"url": "{{cookiecutter.repo_url}}",
 	"package-name": "{{cookiecutter.package_name}}",
 	"installed-apps": [
 		"{{cookiecutter.package_name}}"
