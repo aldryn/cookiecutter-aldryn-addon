@@ -2,13 +2,13 @@
     "project_name": "My Project",
     "package_name":"my_project",
     "repo_name":"my-project",
-    "repo_url":"Repository URL",
+    "repo_url":"https://github.com/divio/my-project",
     "version": "0.0.1",
     "description": "A short description of the project.",
 
-    "author_name": "Author Name",
-    "author_email": "Author Email",
-    "author_url": "Author URL",
+    "author_name": "Divio AG",
+    "author_email": "info@divio.ch",
+    "author_url": "divio.ch",
 
     "year": "2014"
 }
