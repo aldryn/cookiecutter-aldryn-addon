@@ -1,10 +1,11 @@
 {
-    "project_name": "My Project",
-    "package_name":"my_project",
-    "repo_name":"my-project",
+    "project_name": "My App",
+    "app_name": "my-app",
+    "package_name":"my_app",
+    "repo_name":"my-app",
     "repo_url":"Repository URL",
     "version": "0.0.1",
-    "description": "A short description of the project.",
+    "description": "A short description of the app.",
 
     "author_name": "Author Name",
     "author_email": "Author Email",
