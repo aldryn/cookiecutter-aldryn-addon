@@ -18,7 +18,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name='{{cookiecutter.package_name}}',
+    name='{{cookiecutter.app_name}}',
     version=__version__,
     description='{{cookiecutter.description}}',
     author='{{cookiecutter.author_name}}',
