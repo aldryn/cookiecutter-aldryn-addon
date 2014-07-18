@@ -1,7 +1,6 @@
 {
 	"name": "{{cookiecutter.project_name}}",
 	"description": "{{cookiecutter.description}}",
-	"version": "{{cookiecutter.version}}",
 	"url": "{{cookiecutter.repo_url}}",
 	"package-name": "{{cookiecutter.app_name}}",
 	"installed-apps": [
