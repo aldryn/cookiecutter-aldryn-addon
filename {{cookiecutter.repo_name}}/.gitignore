@@ -26,6 +26,8 @@ pip-log.txt
 .coverage
 .tox
 nosetests.xml
+shippable/
+env/
 
 # Translations
 *.mo
