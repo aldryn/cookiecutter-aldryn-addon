@@ -4,13 +4,10 @@
     "package_name":"my_app",
     "repo_name":"my-app",
     "repo_url":"https://github.com/divio/my-app",
-
-    "version": "0.0.1",
+    "version": "0.0.0",
     "description": "A short description of the app.",
-
     "author_name": "Divio AG",
     "author_email": "info@divio.ch",
     "author_url": "divio.ch",
-
     "year": "2014"
 }
