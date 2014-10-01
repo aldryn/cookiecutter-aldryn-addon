@@ -3,7 +3,7 @@
     "app_name": "my-app",
     "package_name":"my_app",
     "repo_name":"my-app",
-    "repo_url":"https://github.com/divio/my-app",
+    "repo_url":"https://github.com/aldryn/my-app",
     "version": "0.0.0",
     "description": "A short description of the app.",
     "author_name": "Divio AG",

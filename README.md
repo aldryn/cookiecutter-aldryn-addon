@@ -1,4 +1,11 @@
-cookiecutter-aldryn-addon
-=========================
+# cookiecutter-aldryn-addon
 
-My version of a cookiecutter template to get started with aldryn addons
+A Cookiecutter template for Aldryn addons.
+
+
+## Usage
+
+```bash
+$ pip install cookiecutter
+$ cookiecutter https://github.com/aldryn/cookiecutter-aldryn-addon.git
+```
