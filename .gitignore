@@ -32,7 +32,7 @@ env/
 *.mo
 
 # IDE configs
-/.idea
+*.idea
 
 # Mr Developer
 .mr.developer.cfg
