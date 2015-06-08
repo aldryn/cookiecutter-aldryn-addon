@@ -31,6 +31,9 @@ env/
 # Translations
 *.mo
 
+# IDE configs
+*.idea
+
 # Mr Developer
 .mr.developer.cfg
 .project
